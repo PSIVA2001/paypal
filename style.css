@@ -1,0 +1,39 @@
+body{
+    background: #dfeef1;
+}
+.card-form{
+    border-radius: 10px;
+}
+.card-form-cover{
+    min-height: 100vh;
+}
+.paypal-btn{
+    height: 80px;
+    cursor: pointer;
+}
+
+.back-btn{
+    background: cornflowerblue;
+    color: white;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.back-btn:hover{
+    background: grey;
+}
+.card-form-cover{
+    min-height: 100vh;
+}
+.error-card{
+    min-height: 200px;
+    border-radius: 5px;
+}
+.success-message{
+    color: #559f59;
+    padding: 10px 5px;
+    margin-bottom: 20px;
+    font-weight: 500;
+    font-size: 18px;
+}
